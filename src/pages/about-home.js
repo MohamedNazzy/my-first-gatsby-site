@@ -1,5 +1,5 @@
 // Step 1: Import React
-import { Link } from 'gatsby'
+// import { Link } from 'gatsby'
 import * as React from 'react'
 import Layout from './layout'
 
